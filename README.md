@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋 Im Tuyana!
 
-<!--
-**tuianazham/tuianazham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tuianazham&show_icons=true&theme=radical" />
 
-Here are some ideas to get you started:
+<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img align="left" alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img align="left" alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+<img align="left" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img align="left" alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" alt="REST ASSURED" src="https://img.shields.io/badge/-restassured-%23E5E5E5?style=for-the-badge&logo=restassured&logoColor=058a5e"/>
+<img alt="REST API" src="https://img.shields.io/badge/restapi-%23006567.svg?style=for-the-badge&logo=restapi&logoColor=white"/>
+<img align="left" alt="CUCUMBER" src="https://img.shields.io/badge/cucumber-342B029.svg?&style=for-the-badge&logo=cucumber&logoColor=white"/>
+<img align="left" alt="JUNIT" src="https://img.shields.io/badge/Junit-25A162?style=for-the-badge&logo=junit&logoColor=white"/>
+<img alt="TestNg" src="https://img.shields.io/badge/TestNg-000000?style=for-the-badge&logo=TestNg&logoColor=white"/>
+<img align="left" alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img align="left" alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img align="left" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
